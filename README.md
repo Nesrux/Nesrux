@@ -12,8 +12,6 @@
   <img align="center" alt="jaumm-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="jaumm-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
  
-  
- https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg
   <img align="right" alt="jaumm-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1408183396187181062/oHDpTpMy_400x400.jpg">
 </div>
   
