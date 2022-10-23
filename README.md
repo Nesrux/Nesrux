@@ -18,10 +18,7 @@
   <a href="https://www.linkedin.com/in/joaomarcosdev" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
   </a>
-  
-  <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-ff3a5e?style=for-the-badge&logo=Discord&logoColor=FFF"/>
-  </a>
+
 </div>
 </div>
 <div style="display: inline_block"><br>
