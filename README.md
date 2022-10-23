@@ -11,7 +11,7 @@
 <h3>Caso queira acompanhar meus conteúdos:</h3> 
 
 <div align="left">
-  <a href="https://www.instagram.com/iuricode/" alt="Instagram">
+  <a href="https://www.instagram.com/jauumx" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
   </a>
   
