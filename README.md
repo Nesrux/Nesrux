@@ -10,6 +10,7 @@
 
 <h3>Caso queira acompanhar meus conteúdos:</h3> 
 
+
 <div align="left">
   <a href="https://www.instagram.com/jauumx" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
@@ -33,7 +34,11 @@
   ##
  
 <div> 
-
+<div align="center">
+  <a href="https://github.com/Nesrux">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nesrux&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nesrux&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
   ![Snake animation](https://github.com/Nesrux/Nesrux/blob/output/github-contribution-grid-snake.svg)
 
