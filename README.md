@@ -30,14 +30,14 @@
   <img align="center" alt="jaumm-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="jaumm-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
-
+ ##
+<div>
  <div align="center">
   <a href="https://github.com/Nesrux">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Nesrux&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nesrux&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div>
   ![Snake animation](https://github.com/Nesrux/Nesrux/blob/output/github-contribution-grid-snake.svg)
 
  
