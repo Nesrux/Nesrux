@@ -32,3 +32,11 @@
   <img align="center" alt="jaumm-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 
 </div>
+
+</br>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nesrux&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nesrux&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nesrux&theme=tokyonight) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nesrux&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nesrux&theme=tokyonight&utcOffset=8) |
+| :-: | :-: |
