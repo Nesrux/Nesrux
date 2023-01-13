@@ -2,11 +2,9 @@
 <div align="center">
 <img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo iuricode">
 
-<h2>Hello World ☕</h2>
+<h2>Hello World 🌎🌏🌍</h2>
 
 <p>Sou um estudante de programação, apaixonado por games e animes e Atualmente estou estudando Java e Spring</p>
-
-</br>
 
 ## Caso queira me conhecer mais: 
 
