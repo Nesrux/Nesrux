@@ -17,8 +17,11 @@
   </a>
 </div>
 
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nesrux&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nesrux&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nesrux&theme=tokyonight) |
 | :-: | :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nesrux&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nesrux&theme=tokyonight&utcOffset=8) |
 | :-: | :-: |
+  ## quantas pessoas ja passaram por aqui
+  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Nesrux/count.svg" /></p>
