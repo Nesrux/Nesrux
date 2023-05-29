@@ -9,9 +9,6 @@
 ## Caso queira me conhecer mais: 
 
 <div align="center">
-  <a href="https://www.instagram.com/jauumx" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
-  </a>
   <a href="https://www.linkedin.com/in/joaomarcosdev" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
   </a>
